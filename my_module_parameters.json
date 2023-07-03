@@ -1,0 +1,6 @@
+{
+    "ANSIBLE_MODULE_ARGS": {
+        "path": "/root/tmp.txt",
+        "content": "123"
+    }
+}
