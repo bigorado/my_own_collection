@@ -1,8 +1,6 @@
 # Домашнее задание к занятию 6 «Создание собственных модулей»
 
 Создал файл `my_own_module.py`.
-
-
 Создал плейбук для запуска модуля:
 ```
 ---
@@ -132,3 +130,5 @@ localhost                  : ok=2    changed=0    unreachable=0    failed=0    s
 
 ```
 
+1) [Коллекция](https://github.com/bigorado/my_own_collection/tree/main/my_own_namespace)
+2) [Тарбол](https://github.com/bigorado/my_own_collection/blob/main/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz)
